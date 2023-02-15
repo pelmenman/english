@@ -115,7 +115,7 @@ To get access to the Internet, one needs a satellite dish for two-way (upload an
 ## task 3 ##
 
 1) одновременно — simultaneously
-2) помещение — room
+2) помещение — premise
 3) цифровой сигнал — a digital signal
 4) конкурентные цены — competitive prices
 5) дешевый вариант — a low-cost option
