@@ -120,6 +120,6 @@ To get access to the Internet, one needs a satellite dish for two-way (upload an
 4) конкурентные цены — competitive prices
 5) дешевый вариант — a low-cost option
 6) надежный — reliable
-7) стабильный/ устойчивый сигнал
+7) стабильный/ устойчивый сигнал — a consistent signal ????
 8) выделенная линия — dedicated line
 9) искажение сигнала — distortion of the signal
