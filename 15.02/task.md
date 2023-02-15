@@ -1,4 +1,4 @@
-task 1
+## task 1 ##
 
 **copper twisted-pair cable** — медный провод витой пары
 
@@ -76,7 +76,7 @@ Satellite Internet access is Internet access provided through communication sate
 
 A cellular network is a radio network spread out over land in the form of cells, each of which has a base station permanently installed
 
-task 2 
+## task 2 ## 
 1. What does ADSL stand for? Why is this type of connection called
 asymmetric?
 
@@ -111,3 +111,15 @@ Those cables send data to and from a computer by harnessing the power of light a
 satellite systems?
 
 To get access to the Internet, one needs a satellite dish for two-way (upload and download) data communications and a modem.
+
+## task 3 ##
+
+1) одновременно — simultaneously
+2) помещение — room
+3) цифровой сигнал — a digital signal
+4) конкурентные цены — competitive prices
+5) дешевый вариант — a low-cost option
+6) надежный — reliable
+7) стабильный/ устойчивый сигнал
+8) выделенная линия — dedicated line
+9) искажение сигнала — distortion of the signal
