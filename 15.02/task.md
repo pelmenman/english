@@ -75,3 +75,39 @@ Satellite Internet access is Internet access provided through communication sate
 **cellular network** — сотовая — сеть 
 
 A cellular network is a radio network spread out over land in the form of cells, each of which has a base station permanently installed
+
+task 2 
+1. What does ADSL stand for? Why is this type of connection called
+asymmetric?
+
+ADSL stands for Asymmetric Digital Subscriber Line. It is asymmetric because the download speed is faster than upload speed.
+
+2. What is the difference between a dial-up connection and DSL?
+
+Dial-up: only one service can be provided at a time
+and it is impossible to use the phone to make calls and browse the Internet at the same time.
+
+DSL: utilizes the standard telephone lines, but allows digital signals to
+be carried rather than analogue
+
+3. What is the origin of the term ‘dial-up connection’?
+
+A dial-up connection to the Internet is set up by dialing a phone number, hence the
+name.
+
+4. What is the downside of cable Internet?
+
+the speed can be slower during peak usage hours when a lot of Internet users are online.
+
+5. What types of wireless Internet connections are mentioned in the text?
+
+Wi-Fi, cellular and satellite Internet
+
+6. How is data transferred over fiber-optic cables?
+
+Those cables send data to and from a computer by harnessing the power of light and can carry data over long distances with low attenuation and distortion of the light signal
+
+7. What equipment does one need to get access to the Internet through
+satellite systems?
+
+To get access to the Internet, one needs a satellite dish for two-way (upload and download) data communications and a modem.
