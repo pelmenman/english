@@ -31,3 +31,23 @@ best option for you cause messages are downloaded locally and removed from the e
 
 the opportunity to organize your mail into folders, to download just messages you want to read and delete individual meesages from the server
 
+
+### task 10 
+
+1. Передать сообщение — to transfer a message 
+2. получить сообщение — to receive a message
+3. доставить сообщение — to send a message
+4. загрузить сообщение — to download a message
+5. удалить сообщение — to delete a message
+6. получить доступ к своей учетной записи электронной почты — to access your email 
+7. одновременный доступ — a simultaneous access
+
+### task 11
+
+1. POP3 is used for sending email to the email server. 
+2. POP3 doesn't download any of your folders but the inbox folder.
+3. In POP3 mail isn't deleted from the server once it is downloaded to a
+device. 4. Both IMAP and POP3 synchronize all the folders on multiple
+devices.
+5. POP3 is suitable if you check your email from one device.
+6. POP3 saves storage space on the mail server. 
