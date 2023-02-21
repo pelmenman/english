@@ -47,8 +47,8 @@ the opportunity to organize your mail into folders, to download just messages yo
 1. POP3 is used for sending email to the email server. **F (only thing that POP3 does is download the email to your device from a mail server)**
 2. POP3 doesn't download any of your folders but the inbox folder. **T**
 3. In POP3 mail isn't deleted from the server once it is downloaded to a
-device. **F**
+device. **F (mail is deleted)**
 4. Both IMAP and POP3 synchronize all the folders on multiple
-devices. **F**
+devices. **F (POP3 doesn't synchronize)**
 5. POP3 is suitable if you check your email from one device. **T**
 6. POP3 saves storage space on the mail server. **T**
