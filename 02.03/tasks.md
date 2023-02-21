@@ -42,7 +42,7 @@ the opportunity to organize your mail into folders, to download just messages yo
 6. получить доступ к своей учетной записи электронной почты — to access your email 
 7. одновременный доступ — a simultaneous access
 
-### task 11
+### task 11 (оказывается не надо)
 
 1. POP3 is used for sending email to the email server. **F (only thing that POP3 does is download the email to your device from a mail server)**
 2. POP3 doesn't download any of your folders but the inbox folder. **T**
@@ -52,3 +52,30 @@ device. **F (mail is deleted)**
 devices. **F (POP3 doesn't synchronize)**
 5. POP3 is suitable if you check your email from one device. **T**
 6. POP3 saves storage space on the mail server. **T**
+
+### task 12
+1. In POP3 mail is deleted **from** the server once it is downloaded
+to a device.
+2. DSL service can be delivered simultaneously **with** wired
+telephone service over the same telephone line.
+3. Data is transmitted in small chunks called packets so that they can
+individually take the quickest route **through** the Internet
+to reach their final destinations
+4. The Internet is a worldwide computer network that transmits a
+variety **of** data and media across interconnected
+devices.
+5. An IP address is a series of four numbers separated **by** dots,
+for example: 192.168.2.10.
+6. TCP/ IP specifies how data is exchanged over the Internet and how
+it should be broken down **into** packets, transmitted and received at the
+destination.
+7. Transmission Control Protocol guarantees the delivery of data
+**over** an acknowledgement.
+8. Different types of fiber-optic cables are used for long distance
+telecommunication, or for providing a high-speed data connection
+**between** different parts of a building.
+9. TCP/ IP Protocol Stack is compatible **with** all operating systems
+and all types of computer hardware. 
+
+
+
