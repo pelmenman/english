@@ -92,5 +92,37 @@ Yahoo, Directory, Open Directory и LookSmart могут служить хоро
 
 Dogpile, MetaCrawler и SavvySearch — несколько примеров таких мета-поисковых систем
 
+## Task 3 ##
+
+**1. What is a search index?**
+
+a massive database of discovered URLs
+
+**2. Why are keywords important for indexing of web pages?**
+
+Because indexing is performed by identifying the words and expressions that best describe the page
+
+**3. How is the database created in human-powered directories**
+
+A short description along with the URL of the website is submitted to the 
+directory for approval.
+
+Submitted site is then manually reviewed and added in the appropriate 
+category or rejected for listing
+
+Keywords entered in the search box will be matched with the description of the 
+site.
+
+**4. How are crawler-based search engines different from human-powered 
+directories?**
+
+Human-powered directories depend on human editors to compile their listings and crawler-based search engines depend on special program known as 'a crawler' or 'a spider'
+
+**5. How do meta-search engines work?**
+
+It sends users’ queries to several other search engines and compiles top 
+results from each into one overall list. After redundancy removal, these results are 
+processed, ranked and presented to the user
+
 
 
