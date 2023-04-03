@@ -16,7 +16,7 @@ A database is an organized collection of structured information, or data, typica
 
 A bookmark is a web browser feature used to save a web site's URL address for future reference.
 
-**URL — Uniform Resource Locator, Унифицированный указатель ресурса*
+**URL — Uniform Resource Locator, Унифицированный указатель ресурса**
 
 the address of a web page
 
